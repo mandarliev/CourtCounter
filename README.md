@@ -1,1 +1,1 @@
-# MusicPlayer project for the Android Basics Nanodegree Program
+# CourtCounter project for the Android Basics Nanodegree Program
