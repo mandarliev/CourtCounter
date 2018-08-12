@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="team_a">Lakers</string>
+    <string name="team_b">Celtics</string>
+    <string name="score_A">0</string>
+    <string name="teamA3Points">+3 Points</string>
+    <string name="teamA2Points">+2 Points</string>
+    <string name="freeThrowA">FT</string>
+    <string name="score_B">0</string>
+    <string name="teamB3Points">+3 Points</string>
+    <string name="teamB2Points">+2 Points</string>
+    <string name="freeThrowB">FT</string>
+    <string name="teamB_score">0</string>
+</resources>
